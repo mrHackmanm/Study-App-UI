@@ -6,6 +6,6 @@ Created Using Figma
 <img width="375" alt="X - 2" src="https://user-images.githubusercontent.com/62690091/149152656-949d8df7-dcac-48a1-9873-be5256cd4b55.png">
 
 
-<img width="375" alt="X - 2" src="https://i.ibb.co/HXy7wwR/2022-01-12-19-25-46-Study-App-UI-pdf-Brave.png">
+<img width="375" alt="X - 2" src="https://i.ibb.co/0FmGBF8/Cover.png">
 
 
