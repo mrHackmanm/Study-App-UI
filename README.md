@@ -7,4 +7,3 @@ Created Using Figma
 ![X - 1_iphone12promaxgold_portrait](https://user-images.githubusercontent.com/62690091/149152704-24477ca7-c77d-4448-bba9-0cd363853777.png)
 
 
-[Study App UI.pdf](https://github.com/mrHackmanm/Study-App-UI/files/7854986/Study.App.UI.pdf)
